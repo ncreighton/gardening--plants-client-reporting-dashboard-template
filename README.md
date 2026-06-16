@@ -1,2 +1,25 @@
-# gardening--plants-client-reporting-dashboard-template
-Weekly and monthly report templates with charts, KPIs, and executive summaries. Impress clients with professional reporting in minutes.
+# Gardening & Plants Client Reporting Dashboard Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU6oHdPpbUEf4433md0q25)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU6oHdPpbUEf4433md0q25)
+
